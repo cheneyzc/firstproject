@@ -22,6 +22,10 @@ public class HelloController {
         model.addAttribute("name",name);
         return "sy";
     }
+
+    public void eat(){
+
+    }
 }
 
 
